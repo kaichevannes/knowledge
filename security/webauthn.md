@@ -1,0 +1,4 @@
+# WebAuthn
+
+WebAuthn is a standard to allow for passwordless authentication with a relying
+party using YubiKey, Trusted Platform Module (TPM), Apple Secure Enclave, ...
