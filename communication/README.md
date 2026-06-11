@@ -1,2 +1,5 @@
-See also:
-- [Relationship Commincation & Habits](<../Relationships/Communication & Habits.md>)
+# Communication
+
+## See also
+
+- [Relationship Commincation & Habits](<../relationships/communication-and-habits.md>)
