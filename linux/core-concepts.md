@@ -4,7 +4,9 @@
 
 The kernel manages memory, processes, drivers, and security. It separates memory into a kernel space which manages hardware and a user space which contains applications that make calls to the kernel space such as: open(), close(), readdir().
 
-When the kernel detects a new hardware device it sends a uevent to the user space device manager daemon udev — this creates a new device under /dev/dynamicname.
+When the kernel detects a new hardware device it sends a `uevent` to the user space device manager daemon `udev` — this creates a new device under `/dev/dynamicname`.
+
+`uname -r` tells us the Kernel version number.
 
 ## Working With Hardware
 
